@@ -1,0 +1,2 @@
+inz:rosbag_to_csv:tum_simulator/cvg_sim_gazebo:tum_simulator/cvg_sim_gazebo_plugins:tum_simulator/cvg_sim_msgs:tum_simulator/message_to_tf:tum_simulator/tum_simulator
+-DCATKIN_DEVEL_PREFIX=/home/leszek/armulti_simulator_ws/devel -DCMAKE_INSTALL_PREFIX=/home/leszek/armulti_simulator_ws/install -G Unix Makefiles

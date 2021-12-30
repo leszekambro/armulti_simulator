@@ -1,0 +1,8 @@
+prefix=/home/leszek/armulti_simulator_ws/install
+
+Name: inz
+Description: Description of inz
+Version: 0.0.0
+Cflags: -I/home/leszek/armulti_simulator_ws/install/include
+Libs: -L/home/leszek/armulti_simulator_ws/install/lib 
+Requires: message_runtime
